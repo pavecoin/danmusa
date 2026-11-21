@@ -1,0 +1,74 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "title": "Aisha",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/aisha.mp3",
+      "coverUrl": "https://example.com/images/aisha.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Gimbiyar Hausa",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/gimbiyar.mp3",
+      "coverUrl": "https://example.com/images/gimbiyar.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Soyayya Dadi",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/soyayya_dadi.mp3",
+      "coverUrl": "https://example.com/images/soyayya_dadi.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Sarauniyar Mata",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/sarauniyar_mata.mp3",
+      "coverUrl": "https://example.com/images/sarauniyar_mata.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Masoyiyata",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/masoyiyata.mp3",
+      "coverUrl": "https://example.com/images/masoyiyata.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Zuciya Daya",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/zuciya_daya.mp3",
+      "coverUrl": "https://example.com/images/zuciya_daya.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Kamar Wata",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/kamar_wata.mp3",
+      "coverUrl": "https://example.com/images/kamar_wata.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Aminu da Zainab",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/aminu_da_zainab.mp3",
+      "coverUrl": "https://example.com/images/aminu_da_zainab.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Tauraruwa",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/tauraruwa.mp3",
+      "coverUrl": "https://example.com/images/tauraruwa.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Alkawari",
+      "artist": "Danmusa New Prince",
+      "audioUrl": "https://example.com/audio/alkawari.mp3",
+      "coverUrl": "https://example.com/images/alkawari.jpg"
+    }
+  ]
+}
