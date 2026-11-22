@@ -2,73 +2,63 @@
   "songs": [
     {
       "id": "1",
-      "title": "Aisha",
+      "title": "Aure",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/aisha.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Aure.mp3"
     },
     {
       "id": "2",
-      "title": "Gimbiyar Hausa",
+      "title": "Gagare",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/gimbiyar.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Gagare.mp3"
     },
     {
       "id": "3",
-      "title": "Soyayya Dadi",
+      "title": "Kiyi Hakuri",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/soyayya_dadi.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Kiyi_Hakuri.mp3"
     },
     {
       "id": "4",
-      "title": "Sarauniyar Mata",
+      "title": "Kugyara Mugyara",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/sarauniyar_mata.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Kugyara_Mugyara.mp3"
     },
     {
       "id": "5",
-      "title": "Masoyiyata",
+      "title": "Lokacinki Amarya",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/masoyiyata.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Lokacinki_Amarya.mp3"
     },
     {
       "id": "6",
-      "title": "Zuciya Daya",
+      "title": "Mamar Amarya",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/zuciya_daya.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Mamar_Amarya.mp3"
     },
     {
       "id": "7",
-      "title": "Kamar Wata",
+      "title": "Ranar Farin Ciki",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/kamar_wata.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Ranar_Farin_Ciki.mp3"
     },
     {
       "id": "8",
-      "title": "Aminu da Zainab",
+      "title": "Safeerah",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/aminu_da_zainab.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Safeerah.mp3"
     },
     {
       "id": "9",
-      "title": "Tauraruwa",
+      "title": "Shugaba A Duba",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/tauraruwa.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Shugaba_A_Duba.mp3"
     },
     {
       "id": "10",
-      "title": "Alkawari",
+      "title": "Zafin Nema",
       "artist": "Danmusa New Prince",
-      "audioUrl": "https://pub-2b8aeebb1850465883549fcf97ce09ad.r2.dev/audio-2/kuda-wajen-kwadayi-akan-mutu.mp3",
-      "coverUrl": "https://example.com/images/alkawari.jpg"
+      "audioUrl": "https://cdn.jsdelivr.net/gh/pavecoin/danmusa@main/Danmusa_New_Prince_Zafin_nema.mp3"
     }
   ]
 }
